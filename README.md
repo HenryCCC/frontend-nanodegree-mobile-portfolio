@@ -1,3 +1,19 @@
+Part1 :
+
+1. Inline CSS style in index.html
+2. Optimized images (reduce size)
+3. Minified CSS 
+4. Added async attribute to js
+
+Result: Both above 90
+
+Part2 :
+1. Modified loop for more efficient (less calculation)
+2. Changed sliding pizza
+3. Move <script type="text/javascript......> to the bottom of pizza.html
+
+Result: Obtain 60 fps when scrolling
+
 ## Website Performance Optimization portfolio project
 
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
