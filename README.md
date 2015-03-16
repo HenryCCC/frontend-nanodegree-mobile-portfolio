@@ -11,7 +11,7 @@ Part2 :
 
 1. Modified loop for more efficient (less calculation)
 2. Changed sliding pizza
-3. Move <script type="text/javascript> to the bottom of pizza.html
+3. Move "<script type="text/javascript>"  to the bottom of pizza.html
 
 Result: Obtain 60 fps when scrolling
 
